@@ -3,5 +3,6 @@
     "watch": ["server.js", "api"],
     "ext": "js,json",
     "exec": "node server.js",
-    "delay": "0"
+    "delay": "0",
+    "legacyWatch": true
 }
